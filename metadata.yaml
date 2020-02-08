@@ -1,0 +1,38 @@
+_repo: Valkoiset-sisaret-Tarina-kahdenneltatoista-vuosisadalta_61140
+_version: 0.0.1
+alternative_title: The White Ladies of Worcester. Finnish
+contributor:
+  translator:
+    agent_name: Wallenius, Toivo
+    birthdate: 1881
+    deathdate: 1919
+    gutenberg_agent_id: '43144'
+    url: http://www.gutenberg.org/2009/agents/43144
+    wikipedia: https://fi.wikipedia.org/wiki/Toivo_Wallenius
+creator:
+  author:
+    agent_name: Barclay, Florence L. (Florence Louisa)
+    aliases:
+    - Barclay, Florence Louisa (Charlesworth), Mrs.
+    - Roy, Brandon
+    birthdate: 1862
+    deathdate: 1921
+    gutenberg_agent_id: '1253'
+    url: http://www.gutenberg.org/2009/agents/1253
+    wikipedia: http://en.wikipedia.org/wiki/Florence_L._Barclay
+description: ''
+gutenberg_issued: '2020-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61140'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Worcester (England) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Historical fiction'
+- GITenberg
+title: 'Valkoiset sisaret: Tarina kahdenneltatoista vuosisadalta'
+url: http://www.gutenberg.org/ebooks/61140
