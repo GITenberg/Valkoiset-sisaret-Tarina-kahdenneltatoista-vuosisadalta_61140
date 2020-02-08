@@ -1,5 +1,5 @@
 _repo: Valkoiset-sisaret-Tarina-kahdenneltatoista-vuosisadalta_61140
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The White Ladies of Worcester. Finnish
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '43144'
     url: http://www.gutenberg.org/2009/agents/43144
     wikipedia: https://fi.wikipedia.org/wiki/Toivo_Wallenius
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Barclay, Florence L. (Florence Louisa)
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1253
     wikipedia: http://en.wikipedia.org/wiki/Florence_L._Barclay
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61140#Valkoiset-sisaret-Tarina-kahdenneltatoista-vuosisadalta
 gutenberg_issued: '2020-01-10'
 gutenberg_type: Text
 identifiers:
